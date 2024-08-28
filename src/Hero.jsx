@@ -26,7 +26,7 @@ export default function Hero() {
 				
 			
 			<Ripple 
-				numCircles="4"
+				numCircles="3"
 			/>
 			
 		</>
