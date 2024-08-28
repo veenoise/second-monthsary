@@ -6,7 +6,7 @@ export default function Hero() {
 	return (
 		<>
 	
-			<div className="relative z-20 h-screen flex justify-center items-center">
+			<div className="relative z-20 h-screen flex justify-center items-center overflow-hidden">
 				<ConfettiButton
 					options={{
 						get angle() {
